@@ -1,5 +1,4 @@
 
-MRA
 def check_file():
     try:
         with open("todo.txt", "x") as file:

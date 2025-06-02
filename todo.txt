@@ -1,0 +1,3 @@
+- study python
+- [x] buy milk
+- [x] eat healthy
